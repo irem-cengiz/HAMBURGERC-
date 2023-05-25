@@ -1,0 +1,4 @@
+﻿ANAFORM açtık. => menü strip koyduk ve içerisine menünün üst kısmını oluşturduk.
+
+class diye bir klasör olulturduk classları onun icine olusturunca birbirini tanıyır ilişki kurmuş oluyor.
+kurmasını isteyince ctrl. diyoruz using o klasörü yukarı yazar
